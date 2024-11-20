@@ -42,6 +42,6 @@ Likes
 
 Installation
 
-1. Clone the repository: `git clone (link unavailable)
+1. Clone the repository: `git clone https://github.com/WizzyCodes/Social-media-be.git
 2. Install dependencies: npm install
 3. Start the server: npm start
